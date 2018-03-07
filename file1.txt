@@ -1,2 +1,4 @@
 file1.txt
 Tohle pridavam.
+Bylo tu malo textu!
+Tohle uz staci?
